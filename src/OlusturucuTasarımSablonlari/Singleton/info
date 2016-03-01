@@ -1,0 +1,3 @@
+Bazı şartlar altında bir sınıftan sadece bir nesnenin oluşturulması ve bu nesnenin tüm sistemde
+kullanılması gerekebilir. Örneğin bilgi bankası için bir Connection pool sadece bir defa oluşturulmalı ve
+kullanılmalıdır.Bu durumda  bu tasarım şablonu kullanılır.
